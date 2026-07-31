@@ -123,7 +123,7 @@ function HomePage() {
 
       <footer>
         <span>Grass Roots Greater Manchester</span>
-        <a href="mailto:hello@grassrootsgm.org">hello@grassrootsgm.org</a>
+       
       </footer>
     </main>
   )
